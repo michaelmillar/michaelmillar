@@ -6,6 +6,6 @@
 
 ## Applications/Tools
 
-<a href="https://github.com/michaelmillar/baton"><img src="https://raw.githubusercontent.com/michaelmillar/baton/main/assets/logo.svg" width="28" height="28" align="top" /></a> [baton](https://github.com/michaelmillar/baton) — Deploy apps, not infrastructure. A radically simpler alternative to Kubernetes.
+<a href="https://github.com/michaelmillar/baton"><img src="assets/baton.svg" width="28" height="28" align="top" /></a> [baton](https://github.com/michaelmillar/baton) — Deploy apps, not infrastructure. A radically simpler alternative to Kubernetes.
 
-<a href="https://github.com/michaelmillar/strunk"><img src="https://raw.githubusercontent.com/michaelmillar/strunk/main/assets/icon.svg" width="28" height="28" align="top" /></a> [strunk](https://github.com/michaelmillar/strunk) — Omit needless infrastructure. Transactional task queues and change feeds backed by Postgres.
+<a href="https://github.com/michaelmillar/strunk"><img src="assets/strunk.svg" width="28" height="28" align="top" /></a> [strunk](https://github.com/michaelmillar/strunk) — Omit needless infrastructure. Transactional task queues and change feeds backed by Postgres.
