@@ -6,6 +6,8 @@
 
 ## Applications/Tools
 
+<a href="https://github.com/michaelmillar/pg-blast-radius"><img src="assets/pg-blast-radius.svg" width="28" height="28" align="top" /></a> [pg-blast-radius](https://github.com/michaelmillar/pg-blast-radius) Know what your PostgreSQL migration will do before you run it. Catalog-aware risk analysis with rollout plan generation.
+
 <a href="https://github.com/michaelmillar/baton"><img src="assets/baton.svg" width="28" height="28" align="top" /></a> [baton](https://github.com/michaelmillar/baton) Deploy apps, not infrastructure. A radically simpler alternative to Kubernetes.
 
 <a href="https://github.com/michaelmillar/strunk"><img src="assets/strunk.svg" width="28" height="28" align="top" /></a> [strunk](https://github.com/michaelmillar/strunk) Omit needless infrastructure. Transactional task queues and change feeds backed by Postgres.
