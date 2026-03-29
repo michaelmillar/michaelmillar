@@ -2,6 +2,12 @@
 
 <a href="https://github.com/michaelmillar/matscreen"><img src="assets/matscreen.svg" width="28" height="28" align="top" /></a> [matscreen](https://github.com/michaelmillar/matscreen) Uncertainty-aware materials screening. Pareto-ranked candidates with calibrated confidence intervals.
 
+<a href="https://github.com/michaelmillar/calibench"><img src="assets/calibench.svg" width="28" height="28" align="top" /></a> [calibench](https://github.com/michaelmillar/calibench) Calibration metrics and diagnostics for uncertainty quantification.
+
+<a href="https://github.com/michaelmillar/pareto-front"><img src="assets/pareto.svg" width="28" height="28" align="top" /></a> [pareto-front](https://github.com/michaelmillar/pareto-front) Fast multi-objective Pareto sorting for Python.
+
+<a href="https://github.com/michaelmillar/atomviz"><img src="assets/atomviz.svg" width="28" height="28" align="top" /></a> [atomviz](https://github.com/michaelmillar/atomviz) Crystal structure visualisation in SVG and HTML. No GPU, no desktop app.
+
 ## Infra
 
 <a href="https://github.com/michaelmillar/pg-blast-radius"><img src="assets/pg-blast-radius.svg" width="28" height="28" align="top" /></a> [pg-blast-radius](https://github.com/michaelmillar/pg-blast-radius) Know what your PostgreSQL migration will do before you run it. Catalog-aware risk analysis with rollout plan generation.
