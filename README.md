@@ -2,7 +2,7 @@
 
 <a href="https://github.com/michaelmillar/matscreen"><img src="assets/matscreen.svg" width="28" height="28" align="top" /></a> [matscreen](https://github.com/michaelmillar/matscreen) Uncertainty-aware materials screening. Pareto-ranked candidates with calibrated confidence intervals.
 
-<a href="https://github.com/michaelmillar/calibench"><img src="assets/calibench.svg" width="28" height="28" align="top" /></a> [calibench](https://github.com/michaelmillar/calibench) Calibration metrics and diagnostics for uncertainty quantification.
+<a href="https://github.com/michaelmillar/calibench"><img src="assets/calibench.svg" width="28" height="28" align="top" /></a> [calibench](https://github.com/michaelmillar/calibench) One-line uncertainty audit for ML models.
 
 <a href="https://github.com/michaelmillar/pareto-front"><img src="assets/pareto.svg" width="28" height="28" align="top" /></a> [pareto-front](https://github.com/michaelmillar/pareto-front) Fast multi-objective Pareto sorting for Python.
 
