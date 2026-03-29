@@ -18,6 +18,8 @@
 
 ## Study
 
+<a href="https://github.com/michaelmillar/lemma"><img src="assets/lemma.svg" width="28" height="28" align="top" /></a> [lemma](https://github.com/michaelmillar/lemma) Learn mathematics through real-world problems. 52 problems across probability, linear algebra, calculus, and discrete maths.
+
 <a href="https://github.com/michaelmillar/from-zero-to-systems"><img src="assets/from-zero-to-systems.svg" width="28" height="28" align="top" /></a> [from-zero-to-systems](https://github.com/michaelmillar/from-zero-to-systems) Build increasingly complex Rust applications, from probability engines to distributed consensus.
 
 <a href="https://github.com/michaelmillar/desugar"><img src="assets/desugar.svg" width="28" height="28" align="top" /></a> [desugar](https://github.com/michaelmillar/desugar) Build a programming language from scratch and learn compilers.
