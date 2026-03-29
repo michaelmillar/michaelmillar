@@ -22,4 +22,4 @@
 
 <a href="https://github.com/michaelmillar/from-zero-to-systems"><img src="assets/from-zero-to-systems.svg" width="28" height="28" align="top" /></a> [from-zero-to-systems](https://github.com/michaelmillar/from-zero-to-systems) Learn Rust through codebase evolution. Each crate depends on earlier ones. At arc boundaries you refactor, benchmark, and maintain what you built.
 
-<a href="https://github.com/michaelmillar/desugar"><img src="assets/desugar.svg" width="28" height="28" align="top" /></a> [desugar](https://github.com/michaelmillar/desugar) Build a programming language from scratch and learn compilers.
+<a href="https://github.com/michaelmillar/desugar"><img src="assets/desugar.svg" width="28" height="28" align="top" /></a> [desugar](https://github.com/michaelmillar/desugar) Browser-native compiler studio. Grow a typed language pass by pass, inspect every IR live, eject a standalone project.
