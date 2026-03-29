@@ -4,9 +4,11 @@
 
 <a href="https://github.com/michaelmillar/desugar"><img src="assets/desugar.svg" width="28" height="28" align="top" /></a> [desugar](https://github.com/michaelmillar/desugar) Build a programming language from scratch and learn compilers.
 
-## Applications/Tools
+## Science
 
 <a href="https://github.com/michaelmillar/matscreen"><img src="assets/matscreen.svg" width="28" height="28" align="top" /></a> [matscreen](https://github.com/michaelmillar/matscreen) Uncertainty-aware materials screening. Pareto-ranked candidates with calibrated confidence intervals.
+
+## Infrastructure
 
 <a href="https://github.com/michaelmillar/pg-blast-radius"><img src="assets/pg-blast-radius.svg" width="28" height="28" align="top" /></a> [pg-blast-radius](https://github.com/michaelmillar/pg-blast-radius) Know what your PostgreSQL migration will do before you run it. Catalog-aware risk analysis with rollout plan generation.
 
