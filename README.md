@@ -10,11 +10,11 @@
 
 ## Infra
 
-<a href="https://github.com/michaelmillar/pg-blast-radius"><img src="assets/pg-blast-radius.svg" width="28" height="28" align="top" /></a> [pg-blast-radius](https://github.com/michaelmillar/pg-blast-radius) Know what your PostgreSQL migration will do before you run it. Catalog-aware risk analysis with rollout plan generation.
+<a href="https://github.com/michaelmillar/pg-blast-radius"><img src="assets/pg-blast-radius.svg" width="28" height="28" align="top" /></a> [pg-blast-radius](https://github.com/michaelmillar/pg-blast-radius) Workload-aware blast radius forecaster for PostgreSQL migrations. Blocked query forecasting, duration ranges, and confidence accounting.
 
 <a href="https://github.com/michaelmillar/baton"><img src="assets/baton.svg" width="28" height="28" align="top" /></a> [baton](https://github.com/michaelmillar/baton) Safe deploys for single-node production systems. Snapshot, migrate, health gate, auto-rollback.
 
-<a href="https://github.com/michaelmillar/strunk"><img src="assets/strunk.svg" width="28" height="28" align="top" /></a> [strunk](https://github.com/michaelmillar/strunk) Omit needless infrastructure. Transactional task queues and change feeds backed by Postgres.
+<a href="https://github.com/michaelmillar/strunk"><img src="assets/strunk.svg" width="28" height="28" align="top" /></a> [strunk](https://github.com/michaelmillar/strunk) Durable task queues and state events for Rust services on PostgreSQL. Typed handlers, consumer inbox, event replay. No broker required.
 
 ## Study
 
