@@ -1,10 +1,10 @@
 ## Research
 
-<a href="https://github.com/michaelmillar/matscreen"><img src="assets/matscreen.svg" width="28" height="28" align="top" /></a> [matscreen](https://github.com/michaelmillar/matscreen) Uncertainty-aware materials screening. Pareto-ranked candidates with calibrated confidence intervals.
+<a href="https://github.com/michaelmillar/matscreen"><img src="assets/matscreen.svg" width="28" height="28" align="top" /></a> [matscreen](https://github.com/michaelmillar/matscreen) Reliability-first triage for solar cell absorber discovery. Calibrated predictions with OOD detection and TRUST/VERIFY/DEFER labels.
 
 <a href="https://github.com/michaelmillar/calibench"><img src="assets/calibench.svg" width="28" height="28" align="top" /></a> [calibench](https://github.com/michaelmillar/calibench) One-line uncertainty audit for ML models.
 
-<a href="https://github.com/michaelmillar/pareto-front"><img src="assets/pareto.svg" width="28" height="28" align="top" /></a> [pareto-front](https://github.com/michaelmillar/pareto-front) Fast multi-objective Pareto sorting for Python.
+<a href="https://github.com/michaelmillar/pareto-front"><img src="assets/pareto.svg" width="28" height="28" align="top" /></a> [pareto-front](https://github.com/michaelmillar/pareto-front) Lightweight Pareto toolkit for Python data workflows. Non-dominated sorting, crowding distance, and ranking with per-objective min/max directions.
 
 <a href="https://github.com/michaelmillar/atomviz"><img src="assets/atomviz.svg" width="28" height="28" align="top" /></a> [atomviz](https://github.com/michaelmillar/atomviz) Crystal structure visualisation in SVG and HTML. No GPU, no desktop app.
 
